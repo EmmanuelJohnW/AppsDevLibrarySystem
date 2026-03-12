@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\WindowsFormsLibrarySys\WindowsFormsLibrarySys\bin\Debug\WindowsFormsLibrarySys.exe.config
+C:\Users\Admin\Desktop\WindowsFormsLibrarySys\WindowsFormsLibrarySys\bin\Debug\WindowsFormsLibrarySys.exe
+C:\Users\Admin\Desktop\WindowsFormsLibrarySys\WindowsFormsLibrarySys\bin\Debug\WindowsFormsLibrarySys.pdb
+C:\Users\Admin\Desktop\WindowsFormsLibrarySys\WindowsFormsLibrarySys\obj\Debug\WindowsFormsLibrarySys.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsLibrarySys\WindowsFormsLibrarySys\obj\Debug\WindowsFormsLibrarySys.Properties.Resources.resources
+C:\Users\Admin\Desktop\WindowsFormsLibrarySys\WindowsFormsLibrarySys\obj\Debug\WindowsFormsLibrarySys.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WindowsFormsLibrarySys\WindowsFormsLibrarySys\obj\Debug\WindowsFormsLibrarySys.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsFormsLibrarySys\WindowsFormsLibrarySys\obj\Debug\WindowsFormsLibrarySys.exe
+C:\Users\Admin\Desktop\WindowsFormsLibrarySys\WindowsFormsLibrarySys\obj\Debug\WindowsFormsLibrarySys.pdb
+C:\Users\Admin\Desktop\WindowsFormsLibrarySys\WindowsFormsLibrarySys\obj\Debug\WindowsFormsLibrarySys.exe.config
